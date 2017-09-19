@@ -1,8 +1,13 @@
 <resources>
-    <string name="app_name">Quizzy</string>
-    <string name="question_text">Madrid es la capital de España.</string>
-    <string name="true_button">True</string>
-    <string name="false_button">False</string>
-    <string name="correct_toast">Correct!</string>
-    <string name="incorrect_toast">Incorrect!</string>
+    <string name="app_name" translatable="false">Quizzy</string>
+
+    <string name="question_spain">Madrid es la capital de España.</string>
+    <string name="question_france">Paris es la capital de Francia.</string>
+    <string name="question_portugal">CR7 no nació en Portugal.</string>
+
+    <string name="true_button">Verdad</string>
+    <string name="false_button">Falso</string>
+    <string name="correct_toast">Correcto!</string>
+    <string name="incorrect_toast">Incorrecto!</string>
+    <string name="next_button">Siguiente</string>
 </resources>
